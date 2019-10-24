@@ -1,0 +1,14 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tabs/TabsWrappedLabel.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "material-table": "1.53.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
